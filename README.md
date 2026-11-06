@@ -1,4 +1,4 @@
-# SKY130 RTL Design and Synthesis Workshop
+# RTL-Design-And-Synthesis-Workshop-Using-Sky130
 
 ## Overview
 This repository contains my work and practical experiments from the 5-day RTL Design and Synthesis Workshop using the SKY130 PDK, conducted by VLSI System Design (VSD).
